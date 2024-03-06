@@ -1,0 +1,142 @@
+/* DIVS WITH IDs */
+
+#BSDIV{
+    background-image: 
+    url('/Semester project/Images/BBS.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    width: 500px;
+    border: solid 5px;
+    float: right;
+}
+
+#FIFADIV{
+    background-image: url('/Semester project/Images/FIFA.webp');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    width: 500px;
+    border: none;
+    float: right;
+}
+
+#RDR2DIV{
+    background-image: url('/Semester project/Images/RDR2.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    width: 500px;
+    border: none;
+    float: right;
+}
+
+#JFDIV{
+    background-image: url('/Semester project/Images/JF cover.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    width: 500px;
+    border: none;
+    float: right;
+}
+
+#NSUNIDIV{
+    background-image: url('/Semester project/Images/NSUNI.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 380px;
+    width: 500px;
+    border: none;
+    float: right;
+}
+
+#GOWDIV{
+    background-image: url('/Semester project/Images/GOW.webp');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    width: 500px;
+    border: none;
+    float: right;
+}
+
+#NFSDIV{
+    background-image: url('/Semester project/Images/NFS.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    width: 500px;
+    border: none;
+    float: right;
+}
+
+#GTAVDIV{
+    background-image: url('/Semester project/Images/GTAV.webp');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    width: 500px;
+    border: none;
+    float: right;
+}
+
+/* DIVS WITH IDs */
+
+/* H1 */
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgba(14, 45, 104, 0.445);
+    margin: none;
+    padding: auto;
+    font-size: 5em;
+    font-style: oblique;
+    font-family: fantasy;
+    overflow: auto;
+    border-radius: 50px;
+}
+/* H1 */
+
+/* LINKS */
+a{
+    text-decoration: solid;
+    text-shadow: 1px;
+    box-sizing: border-box;
+    font-size: 2em;
+    color: black;
+}
+/* LINKS */
+
+/* lists */
+ul{
+    list-style-type: circle;
+    background-color: rgba(14, 45, 104, 0.445) ;
+    border-radius: 50px;
+}
+
+li{
+    list-style-type: none;
+    
+}
+li:hover{
+    background-color: rgba(134, 134, 134, 0.849);
+}
+/* lists */
+
+/* p */
+p{
+    font-size: 3em;
+    font-family: fantasy;
+}
+/* p */
+
+/* footer */
+#footer{
+    padding: 5px;
+    background-color: rgba(14, 45, 104, 0.445);
+    text-align: center;
+    font-family: fantasy;
+    border-radius: 50px;
+}
+/* footer */
